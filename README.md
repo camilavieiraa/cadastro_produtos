@@ -32,8 +32,3 @@ O código utiliza uma única lista linear em Python para armazenar alternadament
 
 ### Pré-requisitos
 - Ter o **Python 3.x** instalado na sua máquina.
-
-### Passos
-1. Clone este repositório ou baixe o arquivo com o código fonte:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
